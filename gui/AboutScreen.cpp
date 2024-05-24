@@ -56,7 +56,7 @@ AboutScreen::AboutScreen(Get* get)
 	// only first two social points will be used
 
 	credHead(i18n("credits.repo"), i18n("credits.repo.desc"));
-	credit("pwsincd", "20027105", NULL, "pwsincd", NULL, NULL, NULL, "pwsincd#9044");
+	credit("pwsincd", "20027105", NULL, "pwsincd", NULL, NULL, NULL, "@pwsincd");
 	credit("VGMoose", "2467473", "vgmoose", "vgmoose");
 	credit("Nightkingale", "63483138", "Nightkingale", "nightkingale");
 	credit("rw-r-r_0644", "18355947", "rw_r_r_0644", "rw-r-r-0644");
@@ -69,7 +69,7 @@ AboutScreen::AboutScreen(Get* get)
 	credit("brienj", "17801294", "xhp_creations", "xhp-creations");
 	credit("Dimok", "15055714", NULL, "dimok789");
 	credit("GaryOderNichts", "12049776", "GaryOderNichts", "GaryOderNichts");
-	credit("FIX94", "12349638", NULL, "FIX94", NULL, NULL, NULL, "FIX94#3446");
+	credit("FIX94", "12349638", NULL, "FIX94", NULL, NULL, NULL, "@fix94");
 	credit("Zarklord", "1622280", "zarklore", "zarklord");
 	credit("CreeperMario", "15356475", "CreeperMario258", "CreeperMario");
 	credit("Ep8Script", "27195853", "ep8script", "ep8script");
@@ -82,11 +82,12 @@ AboutScreen::AboutScreen(Get* get)
 	credit("exelix", "13405476", "exelix11", "exelix11");
 	credit("Xortroll", "33005497", NULL, "xortroll", NULL, "xortroll");
 	credit("Ave", "584369", NULL, NULL, "a", NULL, "ave.zone", NULL, "https://gitlab.com/uploads/-/system/user/avatar/584369/avatar.png");
-	credit("LyfeOnEdge", "26140376", NULL, "lyfeonedge", NULL, NULL, NULL, "Lyfe#1555");
+	credit("LyfeOnEdge", "26140376", NULL, "lyfeonedge", NULL, NULL, NULL, "@_lyfe_");
 	credit("Román", "57878194", NULL, NULL, NULL, NULL, NULL, "Román#6630");
 	credit("Jaames", "9112876", "rakujira", "jaames");
 	credit("Jacob", "12831497", NULL, "jacquesCedric");
 	credit("iTotalJustice", "47043333", NULL, "iTotalJustice");
+	credit("CompSciOrBust", "54033033", NULL, "CompSciOrBust");
 
 	credHead(i18n("credits.toolchain"), i18n("credits.toolchain.desc"));
 	credit("devkitPro", "7538897", NULL, "devkitPro", NULL, "devkitPro");
@@ -103,7 +104,7 @@ AboutScreen::AboutScreen(Get* get)
 	credit("FIX94", "12349638", NULL, "FIX94");
 	credit("dojafoja", "15602819", NULL, "dojafoja");
 	credit("misson20000", "616626", NULL, "misson20000", NULL, NULL, NULL, "misson20000#0752");
-	credit("roblabla", "1069318", NULL, "roblabla", NULL, NULL, NULL, "roblabla#8145");
+	credit("roblabla", "1069318", NULL, "roblabla", NULL, NULL, NULL, "@roblabla");
 	credit("tomGER", "25822956", "tumGER", "tumGER");
 	credit("sirocyl", "944067", "sirocyl", "sirocyl");
 	credit("m4xw", "13141469", "m4xwdev", "m4xw");
